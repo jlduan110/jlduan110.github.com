@@ -1,4 +1,4 @@
 jlduan110.github.com
 ====================
 
-Jalen's website
+Duan Jianlin's Personal Website
